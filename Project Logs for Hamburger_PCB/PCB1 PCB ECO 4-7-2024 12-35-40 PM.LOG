@@ -1,0 +1,16 @@
+Change Component Comment : Designator=U1 Old Comment=Arduino New Comment=Giga
+Added Pin To Net: NetName=D6 Pin=U1-D6
+Added Pin To Net: NetName=D7 Pin=U1-D7
+Added Pin To Net: NetName=GND Pin=U1-GND1
+Added Pin To Net: NetName=GND Pin=U1-GND2
+Added Pin To Net: NetName=GND Pin=U1-GND3
+Added Pin To Net: NetName=GND Pin=U1-GND5
+Added Pin To Net: NetName=GND Pin=U1-GND6
+Added Pin To Net: NetName=GND Pin=U1-MISO
+Added Pin To Net: NetName=GND Pin=U1-RST1
+Added Pin To Net: NetName=GND Pin=U1-RST2
+Add Pin To Net: Unknown Pin: Pin U1-SCL
+Add Pin To Net: Unknown Pin: Pin U1-SDA
+Added Pin To Net: NetName=VCC Pin=U1-3V3
+Added Pin To Net: NetName=VCC Pin=U?-24
+Added Net: Name=VCC
