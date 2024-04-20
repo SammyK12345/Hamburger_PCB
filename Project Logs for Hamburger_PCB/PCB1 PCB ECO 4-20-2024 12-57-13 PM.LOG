@@ -1,0 +1,25 @@
+Added Component: Designator=J1(1040310811)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/1040310811_MEMORY_CARD_SOCKET.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "104031-0811"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-104031-0811"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/104031-0811?qs=udsGRKD4nA3Tvy7wqky%252BuA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=CIPO Pin=J1-7
+Added Pin To Net: NetName=CIPO Pin=U1-CIPO
+Added Net: Name=CIPO
+Added Pin To Net: NetName=COPI Pin=J1-3
+Added Pin To Net: NetName=COPI Pin=U1-COPI
+Added Net: Name=COPI
+Added Pin To Net: NetName=CS Pin=J1-2
+Added Pin To Net: NetName=CS Pin=U1-CS
+Added Net: Name=CS
+Added Pin To Net: NetName=SCK1 Pin=J1-5
+Added Pin To Net: NetName=SCK1 Pin=U1-SCK1
+Added Net: Name=SCK1
+Added Pin To Net: NetName=VDD Pin=J1-4
+Added Pin To Net: NetName=VDD Pin=U1-5V1
+Added Net: Name=VDD
+Added Member To Class: ClassName=Sheet1 Member=Component J1 104031-0811

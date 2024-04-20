@@ -1,0 +1,16 @@
+Added Component: Designator=J?(SIM8066611401A)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://gct.co/connector/sim8066"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.64mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "GCT (GLOBAL CONNECTOR TECHNOLOGY)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SIM8066-6-1-14-01-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "640-SIM8066-611401A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/GCT/SIM8066-6-1-14-01-A?qs=TuK3vfAjtkWgq0pKcqnMSw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=J?-C1
+Added Pin To Net: NetName=GND Pin=J?-C2
+Added Pin To Net: NetName=SCK1 Pin=J?-C3
+Added Pin To Net: NetName=VDD Pin=J?-C6
+Added Pin To Net: NetName=COPI Pin=J?-C7
+Added Pin To Net: NetName=CS Pin=J?-CD1
+Added Member To Class: ClassName=Sheet1 Member=Component J? SIM8066-6-1-14-01-A
