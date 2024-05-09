@@ -1,0 +1,21 @@
+Added Component: Designator=J1(HDRV10W64P254_2X5_1270X500X952P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PH2-10-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ph2-10-ua/adam-tech?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/c63e3fe101e7b6e3957e7ad4a1a98367.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.516mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PH2-10-UA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CLKOUT Pin=J1-1
+Added Pin To Net: NetName=INT Pin=J1-2
+Added Pin To Net: NetName=WOL Pin=J1-3
+Added Pin To Net: NetName=SO Pin=J1-4
+Added Pin To Net: NetName=SI Pin=J1-5
+Added Pin To Net: NetName=SCK2 Pin=J1-6
+Added Pin To Net: NetName=ETH_CS Pin=J1-7
+Added Pin To Net: NetName=RESET Pin=J1-8
+Added Pin To Net: NetName=VCC Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Member To Class: ClassName=Sheet1 Member=Component J1 104031-0811
+Added Member To Class: ClassName=Sheet1 Member=Component J1 PH2-10-UA
