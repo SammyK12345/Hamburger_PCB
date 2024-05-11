@@ -1,0 +1,17 @@
+Added Component: Designator=U1(PCBComponent_1)
+Added Pin To Net: NetName=VCC Pin=U1-3V3
+Added Pin To Net: NetName=CIPO Pin=U1-CIPO
+Added Pin To Net: NetName=COPI Pin=U1-COPI
+Added Pin To Net: NetName=SD_CS Pin=U1-CS
+Added Pin To Net: NetName=ETH_CS Pin=U1-D5
+Added Pin To Net: NetName=D6 Pin=U1-D6
+Added Pin To Net: NetName=D7 Pin=U1-D7
+Added Pin To Net: NetName=SO Pin=U1-MISO
+Added Pin To Net: NetName=SI Pin=U1-MOSI
+Added Pin To Net: NetName=RESET Pin=U1-RST2
+Added Pin To Net: NetName=SCK1 Pin=U1-SCK1
+Added Pin To Net: NetName=SCK2 Pin=U1-SCK2
+Added Pin To Net: NetName=SCL Pin=U1-SCL
+Added Pin To Net: NetName=SDA Pin=U1-SDA
+Added Member To Class: ClassName=Sheet1 Member=Component U1 Giga
+Added Member To Class: ClassName=Sheet1 Member=Component U1 BMP280
