@@ -1,0 +1,13 @@
+Change Component Comment : Designator=J3 Old Comment=PH2-10-UA New Comment=Ethernet
+Added Component: Designator=U?(PCBComponent_1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BMP280"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin U?-GND
+Add Pin To Net: Unknown Pin: Pin U?-SCK
+Add Pin To Net: Unknown Pin: Pin U?-SDI
+Add Pin To Net: Unknown Pin: Pin U?-Vin
+Added Member To Class: ClassName=Sheet1 Member=Component U? TCA9548APWR
