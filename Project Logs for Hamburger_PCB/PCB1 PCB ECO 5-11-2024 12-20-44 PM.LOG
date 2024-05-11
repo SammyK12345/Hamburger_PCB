@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=D6 Pin=U2-1
+Removed Pin From Net: NetName=D7 Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U2-12
+Removed Pin From Net: NetName=GND Pin=U2-21
+Removed Pin From Net: NetName=SCL Pin=U2-22
+Removed Pin From Net: NetName=SDA Pin=U2-23
+Removed Pin From Net: NetName=VCC Pin=U2-24
+Removed Member From Class: ClassName=Sheet1 Member=U2
+Added Component: Designator=U?(PCBComponent_1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BMP280"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-GND
+Added Pin To Net: NetName=SCL Pin=U?-SCK
+Added Pin To Net: NetName=SDA Pin=U?-SDI
+Added Pin To Net: NetName=VDD Pin=U?-Vin
+Added Member To Class: ClassName=Sheet1 Member=Component U1 Giga
+Added Member To Class: ClassName=Sheet1 Member=Component U? BMP280
