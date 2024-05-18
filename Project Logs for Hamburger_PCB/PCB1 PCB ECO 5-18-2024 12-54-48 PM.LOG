@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=VDD Pin=*-VIN
+Added Pin To Net: NetName=GPS_RX Pin=*-RX
+Added Pin To Net: NetName=GPS_RX Pin=U1-TX1
+Added Net: Name=GPS_RX
+Added Pin To Net: NetName=GPS_TX Pin=*-TX
+Added Pin To Net: NetName=GPS_TX Pin=U1-RX1
+Added Net: Name=GPS_TX
+Added Member To Class: ClassName=Sheet1 Member=Component U1 Giga

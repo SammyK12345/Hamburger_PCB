@@ -1,0 +1,15 @@
+Add Component: Footprint Not Found PCBComponent_1
+Add Pin To Net: Unknown Pin: Pin U1-GND
+Add Pin To Net: Unknown Pin: Pin U1-SCK
+Add Pin To Net: Unknown Pin: Pin U1-SDI
+Added Pin To Net: NetName=VDD Pin=U1-VIN
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-12
+Add Pin To Net: Unknown Pin: Pin U2-21
+Add Pin To Net: Unknown Pin: Pin U2-22
+Add Pin To Net: Unknown Pin: Pin U2-23
+Add Pin To Net: Unknown Pin: Pin U2-24
+Added Member To Class: ClassName=Sheet1 Member=Component U1 Giga
+Add Class Member: Failed to add class member : Component U2 TCA9548APWR
